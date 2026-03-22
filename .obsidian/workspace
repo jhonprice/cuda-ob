@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "75976a84ec1c506c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b22c57863a4c8fe9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "抽查表.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "86c9fcd647da39e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "抽查表.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "891172f306b6351f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0107a81642de58ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7762a0b4a991895a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d38b9ce3211bab9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c795df2e4461718",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba419c5e4c4c3dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f19e6dd01c2d3ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "抽查表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "抽查表.md",
+    "Untitled.md"
+  ]
+}
