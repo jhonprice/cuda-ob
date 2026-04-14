@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b16c3d540b2f0c",
+        "id": "d46b7a8c174404d8",
         "type": "tabs",
         "children": [
           {
-            "id": "e63f7ebfdd07e2da",
+            "id": "5aad01e6861dc357",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "c++/忽略的部分.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "忽略的部分"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "c++/忽略的部分.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,8 +166,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e63f7ebfdd07e2da",
+  "active": "5aad01e6861dc357",
   "lastOpenFiles": [
+    "按引用或地址返回.md",
+    "按地址传参.md",
+    "指针和const.md",
+    "空指针.md",
+    "指针.md",
+    "c++/忽略的部分.md",
+    "c++/常量左值引用传参.md",
+    "c++/左值引用传参.md",
+    "c++/常量的左值引用.md",
+    "c++/左值引用.md",
+    "c++/左值和右值.md",
+    "c++/复合数据类型.md",
     "c++/多个文件使用函数模板.md",
     "c++/非类型模板参数.md",
     "c++/函数模板.md",
@@ -170,7 +187,6 @@
     "c++/函数模板实例化.md",
     "c++/默认参数.md",
     "c++/删除函数.md",
-    "c++/忽略的部分.md",
     "c++/函数重载.md",
     "c++/未命名命名空间和内联命名空间.md",
     "c++/局部变量.md",
@@ -178,18 +194,7 @@
     "c++/静态局部变量.md",
     "c++/多文件共享全局变量.md",
     "c++/外部链接.md",
-    "c++/内联函数和变量.md",
-    "c++/内部链接.md",
-    "c++/全局变量.md",
-    "c++/链接linkage.md",
-    "c++/复合语句和命名空间.md",
-    "c++/命名空间.md",
     "未命名.base",
-    "2026-04-11.md",
-    "未命名.canvas",
-    "c++/string_view.md",
-    "c++/String.md",
-    "c++/常量表达式.md",
-    "c++/常量.md"
+    "未命名.canvas"
   ]
 }
