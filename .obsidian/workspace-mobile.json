@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d46b7a8c174404d8",
+        "id": "5843dbb36db3b1ef",
         "type": "tabs",
         "children": [
           {
-            "id": "5aad01e6861dc357",
+            "id": "4bad0c3007f31a58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c++/忽略的部分.md",
+                "file": "c++/常量的左值引用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "忽略的部分"
+              "title": "常量的左值引用"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "c++/忽略的部分.md",
+            "file": "c++/常量的左值引用.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,19 +166,21 @@
       "bases:新建数据库": false
     }
   },
-  "active": "5aad01e6861dc357",
+  "active": "4bad0c3007f31a58",
   "lastOpenFiles": [
-    "按引用或地址返回.md",
-    "按地址传参.md",
-    "指针和const.md",
-    "空指针.md",
-    "指针.md",
     "c++/忽略的部分.md",
-    "c++/常量左值引用传参.md",
-    "c++/左值引用传参.md",
-    "c++/常量的左值引用.md",
+    "未命名.md",
+    "指针引用和const与类型推导.md",
     "c++/左值引用.md",
+    "c++/左值引用传参.md",
+    "c++/指针和const.md",
     "c++/左值和右值.md",
+    "c++/按引用或地址返回.md",
+    "c++/按地址传参.md",
+    "c++/空指针.md",
+    "c++/指针.md",
+    "c++/常量左值引用传参.md",
+    "c++/常量的左值引用.md",
     "c++/复合数据类型.md",
     "c++/多个文件使用函数模板.md",
     "c++/非类型模板参数.md",
@@ -192,8 +194,6 @@
     "c++/局部变量.md",
     "c++/using声明和using指令.md",
     "c++/静态局部变量.md",
-    "c++/多文件共享全局变量.md",
-    "c++/外部链接.md",
     "未命名.base",
     "未命名.canvas"
   ]
