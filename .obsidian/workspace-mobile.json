@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e2e25d691cf6dfb",
+        "id": "23738d489885e285",
         "type": "tabs",
         "children": [
           {
-            "id": "933831ab586e8fe0",
+            "id": "99421edb33f08df9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
         ]
@@ -167,14 +163,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "933831ab586e8fe0",
+  "active": "99421edb33f08df9",
   "lastOpenFiles": [
+    "c++/结构体.md",
+    "c++/运算符重载（枚举&结构体）.md",
+    "c++/作用域枚举类(enum class).md",
     "未命名.md",
-    "结构体.md",
+    "c++/枚举（无作用枚举）.md",
     "c++/忽略的部分.md",
-    "作用域枚举类(enum class).md",
-    "运算符重载（枚举）.md",
-    "枚举（无作用枚举）.md",
     "c++/用户定义类型简介.md",
     "c++/常量的左值引用.md",
     "c++/指针引用和const与类型推导.md",
