@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23738d489885e285",
+        "id": "336634fff697eb59",
         "type": "tabs",
         "children": [
           {
-            "id": "99421edb33f08df9",
+            "id": "70a2d6bb2ce36a15",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,7 +140,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "未命名.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -163,14 +162,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "99421edb33f08df9",
+  "active": "c976848ff8b6e10c",
   "lastOpenFiles": [
+    "c++/别名模板.md",
+    "c++/CTAD类模板参数推导（C++17）.md",
+    "c++/std_pair.md",
+    "c++/类模板.md",
+    "c++/忽略的部分.md",
     "c++/结构体.md",
+    "c++/按从鸟瞰C++.canvas",
+    "c++/结构体作参数和返回值.md",
+    "c++/tmp",
     "c++/运算符重载（枚举&结构体）.md",
     "c++/作用域枚举类(enum class).md",
-    "未命名.md",
     "c++/枚举（无作用枚举）.md",
-    "c++/忽略的部分.md",
     "c++/用户定义类型简介.md",
     "c++/常量的左值引用.md",
     "c++/指针引用和const与类型推导.md",
@@ -187,10 +192,6 @@
     "c++/多个文件使用函数模板.md",
     "c++/非类型模板参数.md",
     "c++/函数模板.md",
-    "c++/多个模板类型的函数模板.md",
-    "c++/函数模板实例化.md",
-    "c++/默认参数.md",
-    "c++/删除函数.md",
     "未命名.base",
     "未命名.canvas"
   ]
