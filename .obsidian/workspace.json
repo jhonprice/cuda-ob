@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2dda05bfa8503b14",
+        "id": "409d82ba5ecc46c7",
         "type": "tabs",
         "children": [
           {
-            "id": "c15c4e0a31cde462",
+            "id": "5a4e1586a37c217f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "c++/C++的语句.md",
-                "mode": "source",
-                "source": false
+                "file": "c++/按从鸟瞰C++.canvas",
+                "viewState": {
+                  "x": -600,
+                  "y": -766.8373983739837,
+                  "zoom": -1.0817017320815834
+                }
               },
-              "icon": "lucide-file",
-              "title": "C++的语句"
+              "icon": "lucide-layout-dashboard",
+              "title": "按从鸟瞰C++"
             }
           }
         ]
@@ -183,8 +186,23 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c15c4e0a31cde462",
+  "active": "5a4e1586a37c217f",
   "lastOpenFiles": [
+    "c++/常量表达式.md",
+    "c++/常量的左值引用.md",
+    "c++/常量.md",
+    "c++/表达式语句.md",
+    "c++/变量的作用域和生命周期.md",
+    "c++/变量的赋值和初始化.md",
+    "c++/按从鸟瞰C++.canvas",
+    "c++/按引用或地址返回.md",
+    "c++/按地址传参.md",
+    "c++/局部变量.md",
+    "c++/未命名.md",
+    "c++/临时变量.md",
+    "c++/空指针.md",
+    "c++/C++术语.md",
+    "未命名.md",
     "c++/C++的语句.md",
     "未命名.canvas",
     "README.md",
