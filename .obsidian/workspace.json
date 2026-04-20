@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "409d82ba5ecc46c7",
+        "id": "ded470c2bd7c4139",
         "type": "tabs",
         "children": [
           {
-            "id": "5a4e1586a37c217f",
+            "id": "ec74b14e24ec8a0e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "c++/按从鸟瞰C++.canvas",
-                "viewState": {
-                  "x": -600,
-                  "y": -766.8373983739837,
-                  "zoom": -1.0817017320815834
-                }
+                "file": "pytorch/note/环境的简单配置.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "按从鸟瞰C++"
+              "icon": "lucide-file",
+              "title": "环境的简单配置"
             }
           }
         ]
@@ -186,8 +183,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "5a4e1586a37c217f",
+  "active": "ec74b14e24ec8a0e",
   "lastOpenFiles": [
+    "pytorch/note/Pasted image 20260420224102.png",
+    "pytorch/note/环境的简单配置.md",
+    "pytorch/未命名",
+    "pytorch/note",
+    "pytorch",
+    "c++/tmp",
     "c++/常量表达式.md",
     "c++/常量的左值引用.md",
     "c++/常量.md",
