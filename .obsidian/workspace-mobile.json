@@ -11,10 +11,17 @@
             "id": "70a2d6bb2ce36a15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "canvas",
+              "state": {
+                "file": "c++/按从鸟瞰C++.canvas",
+                "viewState": {
+                  "x": -654.9851494371467,
+                  "y": -316.96607879174627,
+                  "zoom": -0.3391437728717232
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "按从鸟瞰C++"
             }
           }
         ]
@@ -162,15 +169,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c976848ff8b6e10c",
+  "active": "70a2d6bb2ce36a15",
   "lastOpenFiles": [
+    "c++/常量表达式.md",
+    "c++/按从鸟瞰C++.canvas",
+    "c++/常量.md",
     "c++/别名模板.md",
     "c++/CTAD类模板参数推导（C++17）.md",
     "c++/std_pair.md",
     "c++/类模板.md",
     "c++/忽略的部分.md",
     "c++/结构体.md",
-    "c++/按从鸟瞰C++.canvas",
     "c++/结构体作参数和返回值.md",
     "c++/tmp",
     "c++/运算符重载（枚举&结构体）.md",
@@ -190,8 +199,6 @@
     "c++/常量左值引用传参.md",
     "c++/复合数据类型.md",
     "c++/多个文件使用函数模板.md",
-    "c++/非类型模板参数.md",
-    "c++/函数模板.md",
     "未命名.base",
     "未命名.canvas"
   ]
