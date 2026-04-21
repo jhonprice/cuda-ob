@@ -7,14 +7,18 @@
 		{"id":"bab3c1802d50db39","type":"group","x":-1300,"y":-738,"width":400,"height":400,"label":"变量"},
 		{"id":"57018878f1fecb15","type":"group","x":-1300,"y":-260,"width":400,"height":400,"label":"语句"},
 		{"id":"14d17fd61d97cb58","type":"group","x":-1300,"y":-1280,"width":400,"height":400,"label":"常量"},
-		{"id":"da03819a9546131f","type":"text","text":"[[按引用或地址返回]]","x":-785,"y":-700,"width":250,"height":60},
-		{"id":"05000a88d7a3e9af","type":"text","text":"[[变量的赋值和初始化]]","x":-785,"y":-220,"width":250,"height":50},
 		{"id":"986a8d73c143f5d8","type":"text","text":"[[局部变量]]","x":-1240,"y":-701,"width":250,"height":60},
 		{"id":"7b99003aea596f2c","type":"text","text":"[[表达式语句]]","x":-1240,"y":-240,"width":250,"height":60},
 		{"id":"1e0a83c04e76d61a","type":"text","text":"[[常量]]","x":-1260,"y":-1260,"width":250,"height":60},
+		{"id":"550eb0bc41f699aa","type":"text","text":"[[常量表达式]]","x":-1260,"y":-1160,"width":250,"height":60},
+		{"id":"f97eaebb8fdf80ad","type":"text","text":"[[常量的左值引用]]","x":-1260,"y":-1064,"width":250,"height":60},
+		{"id":"da03819a9546131f","type":"text","text":"[[按引用或地址返回]]","x":-785,"y":-700,"width":250,"height":60},
+		{"id":"05000a88d7a3e9af","type":"text","text":"[[变量的赋值和初始化]]","x":-785,"y":-220,"width":250,"height":50},
 		{"id":"8ec121493b4c2b1b","type":"text","text":"[[按地址传参]]","x":-280,"y":-701,"width":250,"height":50},
 		{"id":"098601a719fde88f","type":"text","text":"[[变量的作用域和生命周期]]","x":-251,"y":-219,"width":250,"height":60},
-		{"id":"550eb0bc41f699aa","x":-1260,"y":-1160,"width":250,"height":60,"type":"text","text":"[[常量表达式]]"}
+		{"id":"f07222031da9072d","type":"text","text":"[[常量左值引用传参]]","x":-280,"y":-621,"width":250,"height":60},
+		{"id":"8778694fbc95a11b","type":"text","text":"[[单一定义规则(ODR)]]","x":-251,"y":-124,"width":250,"height":60},
+		{"id":"0e160a1146353711","x":-251,"y":-21,"width":250,"height":60,"type":"text","text":"[[多文件编译]]"}
 	],
 	"edges":[]
 }

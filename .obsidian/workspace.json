@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ded470c2bd7c4139",
+        "id": "0dff2797792134a5",
         "type": "tabs",
         "children": [
           {
-            "id": "ec74b14e24ec8a0e",
+            "id": "30c2bfe799631bb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pytorch/note/环境的简单配置.md",
+                "file": "c++/类和成员函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "环境的简单配置"
+              "title": "类和成员函数"
             }
           }
         ]
@@ -183,29 +183,38 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ec74b14e24ec8a0e",
+  "active": "720378cf6b6d9b41",
   "lastOpenFiles": [
-    "pytorch/note/Pasted image 20260420224102.png",
+    "c++/内联函数和变量.md",
+    "c++/类和成员函数.md",
+    "c++/note/按从鸟瞰C++.canvas",
+    "c++/内部链接.md",
+    "c++/忽略的部分.md",
+    "c++/note/多文件编译.md",
+    "c++/note/单一定义规则(ODR).md",
+    "c++/note/常量左值引用传参.md",
+    "c++/note/常量的左值引用.md",
+    "c++/note/局部变量.md",
+    "c++/note",
+    "未命名 1.md",
+    "c++/未命名.base",
     "pytorch/note/环境的简单配置.md",
+    "pytorch/note/Pasted image 20260420224102.png",
     "pytorch/未命名",
     "pytorch/note",
     "pytorch",
     "c++/tmp",
-    "c++/常量表达式.md",
-    "c++/常量的左值引用.md",
-    "c++/常量.md",
-    "c++/表达式语句.md",
-    "c++/变量的作用域和生命周期.md",
-    "c++/变量的赋值和初始化.md",
-    "c++/按从鸟瞰C++.canvas",
-    "c++/按引用或地址返回.md",
-    "c++/按地址传参.md",
-    "c++/局部变量.md",
+    "c++/note/常量表达式.md",
+    "c++/note/常量.md",
+    "c++/note/表达式语句.md",
+    "c++/note/变量的作用域和生命周期.md",
+    "c++/note/变量的赋值和初始化.md",
+    "c++/note/按引用或地址返回.md",
+    "c++/note/按地址传参.md",
     "c++/未命名.md",
     "c++/临时变量.md",
     "c++/空指针.md",
     "c++/C++术语.md",
-    "未命名.md",
     "c++/C++的语句.md",
     "未命名.canvas",
     "README.md",
