@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "300351079c5ff631",
+        "id": "2a9ee91f1da517c5",
         "type": "tabs",
         "children": [
           {
-            "id": "c461fe5fd9b7fb72",
+            "id": "c487d17a6a50b766",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c++/类：返回引用的成员函数.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "类：返回引用的成员函数"
-            }
-          },
-          {
-            "id": "ec178f0460635de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c++/忽略的部分.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "忽略的部分"
+              "title": "新标签页"
             }
           }
         ]
@@ -197,13 +179,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c461fe5fd9b7fb72",
+  "active": "c487d17a6a50b766",
   "lastOpenFiles": [
-    "c++/类：右值隐式对象与按引用返回.md",
-    "c++/类：返回引用的成员函数.md",
     "c++/忽略的部分.md",
-    "c++/类：访问函数.md",
+    "c++/类和聚合体和constexpr.md",
     "c++/结构体.md",
+    "c++/类：转换构造函数和explicit 关键字.md",
+    "c++/类：初始化和拷贝省略.md",
+    "c++/三法则和五法则.md",
+    "c++/类：拷贝构造函数.md",
+    "c++/类：临时对象.md",
+    "c++/类：委托构造函数.md",
+    "c++/类：默认构造函数和默认参数.md",
+    "c++/类：构造函数.md",
+    "c++/类：返回引用的成员函数.md",
+    "c++/类：右值隐式对象与按引用返回.md",
+    "c++/类：访问函数.md",
     "c++/类和常量对象和常量成员函数.md",
     "c++/类：术语.md",
     "c++/类和成员函数.md",
@@ -224,15 +215,6 @@
     "pytorch/note",
     "pytorch",
     "c++/tmp",
-    "c++/note/常量表达式.md",
-    "c++/note/常量.md",
-    "c++/note/表达式语句.md",
-    "c++/note/变量的作用域和生命周期.md",
-    "c++/note/变量的赋值和初始化.md",
-    "c++/note/按引用或地址返回.md",
-    "c++/note/按地址传参.md",
-    "c++/临时变量.md",
-    "c++/空指针.md",
     "未命名.canvas",
     "c++",
     "cuda",
