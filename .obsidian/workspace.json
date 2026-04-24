@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9ee91f1da517c5",
+        "id": "321b73436d19f02d",
         "type": "tabs",
         "children": [
           {
-            "id": "c487d17a6a50b766",
+            "id": "0da9e8a2df52cba5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,8 +179,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c487d17a6a50b766",
+  "active": "0da9e8a2df52cba5",
   "lastOpenFiles": [
+    "c++/类：嵌套类.md",
+    "c++/类和头文件.md",
+    "c++/类：this指针.md",
     "c++/忽略的部分.md",
     "c++/类和聚合体和constexpr.md",
     "c++/结构体.md",
@@ -205,11 +208,8 @@
     "c++/note/单一定义规则(ODR).md",
     "c++/note/常量左值引用传参.md",
     "c++/note/常量的左值引用.md",
-    "c++/note/局部变量.md",
     "c++/note",
-    "未命名 1.md",
     "c++/未命名.base",
-    "pytorch/note/环境的简单配置.md",
     "pytorch/note/Pasted image 20260420224102.png",
     "pytorch/未命名",
     "pytorch/note",
