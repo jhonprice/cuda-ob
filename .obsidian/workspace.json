@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "321b73436d19f02d",
+        "id": "ee1154b0a1b3c6e8",
         "type": "tabs",
         "children": [
           {
-            "id": "0da9e8a2df52cba5",
+            "id": "e932f96a06843fcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pytorch/note/简单的回归问题.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "简单的回归问题"
             }
           }
         ]
@@ -179,8 +183,23 @@
       "bases:新建数据库": false
     }
   },
-  "active": "0da9e8a2df52cba5",
+  "active": "720378cf6b6d9b41",
   "lastOpenFiles": [
+    "pytorch/note/pic/Pasted image 20260425202342.png",
+    "pytorch/note/梯度下降.md",
+    "pytorch/note/简单的回归问题.md",
+    "pytorch/note/一些会简单提到但不深入的主题和阅读提示.md",
+    "pytorch/note/环境的简单配置.md",
+    "pytorch/note/pic/Pasted image 20260425172110.png",
+    "pytorch/note/pic/Pasted image 20260425171330.png",
+    "pytorch/note/pic/Pasted image 20260425162549.png",
+    "pytorch/note/pic/Pasted image 20260425162540.png",
+    "pytorch/note/pic/Pasted image 20260425161919.png",
+    "README.md",
+    "pytorch/note/pic",
+    "pytorch/note/pic/Pasted image 20260425095156.png",
+    "pytorch/note/pic/Pasted image 20260420224102.png",
+    "cuda/抽查表.md",
     "c++/类：嵌套类.md",
     "c++/类和头文件.md",
     "c++/类：this指针.md",
@@ -200,17 +219,9 @@
     "c++/类：访问函数.md",
     "c++/类和常量对象和常量成员函数.md",
     "c++/类：术语.md",
-    "c++/类和成员函数.md",
-    "c++/内联函数和变量.md",
     "c++/note/按从鸟瞰C++.canvas",
-    "c++/内部链接.md",
-    "c++/note/多文件编译.md",
-    "c++/note/单一定义规则(ODR).md",
-    "c++/note/常量左值引用传参.md",
-    "c++/note/常量的左值引用.md",
     "c++/note",
     "c++/未命名.base",
-    "pytorch/note/Pasted image 20260420224102.png",
     "pytorch/未命名",
     "pytorch/note",
     "pytorch",
