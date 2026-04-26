@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1154b0a1b3c6e8",
+        "id": "f0f9722c62a6f875",
         "type": "tabs",
         "children": [
           {
-            "id": "e932f96a06843fcc",
+            "id": "e46e353d0824785f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "097640b825744d17",
@@ -183,22 +184,25 @@
       "bases:新建数据库": false
     }
   },
-  "active": "720378cf6b6d9b41",
+  "active": "e46e353d0824785f",
   "lastOpenFiles": [
-    "pytorch/note/pic/Pasted image 20260425202342.png",
     "pytorch/note/梯度下降.md",
     "pytorch/note/简单的回归问题.md",
+    "pytorch/note/训练循环.md",
+    "pytorch/note/pic/Pasted image 20260426120514.png",
+    "pytorch/note/pic/Pasted image 20260426120203.png",
+    "pytorch/note/pic/Pasted image 20260426120147.png",
+    "pytorch/note/pic/Pasted image 20260426110952.png",
+    "pytorch/note/pic/Pasted image 20260426110522.png",
+    "pytorch/note/pic/Pasted image 20260426110516.png",
+    "pytorch/note/pic/Pasted image 20260426110458.png",
+    "pytorch/note/pic/Pasted image 20260426095927.png",
+    "pytorch/note/pic/Pasted image 20260425202342.png",
     "pytorch/note/一些会简单提到但不深入的主题和阅读提示.md",
     "pytorch/note/环境的简单配置.md",
     "pytorch/note/pic/Pasted image 20260425172110.png",
-    "pytorch/note/pic/Pasted image 20260425171330.png",
-    "pytorch/note/pic/Pasted image 20260425162549.png",
-    "pytorch/note/pic/Pasted image 20260425162540.png",
-    "pytorch/note/pic/Pasted image 20260425161919.png",
     "README.md",
     "pytorch/note/pic",
-    "pytorch/note/pic/Pasted image 20260425095156.png",
-    "pytorch/note/pic/Pasted image 20260420224102.png",
     "cuda/抽查表.md",
     "c++/类：嵌套类.md",
     "c++/类和头文件.md",
