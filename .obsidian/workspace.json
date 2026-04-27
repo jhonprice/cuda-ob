@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pytorch/note/简单的回归问题.md",
+                "file": "cuda/理论/ch02-异构数据并行计算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简单的回归问题"
+              "title": "ch02-异构数据并行计算"
             }
           }
         ]
@@ -185,24 +185,33 @@
   },
   "active": "e46e353d0824785f",
   "lastOpenFiles": [
-    "pytorch/note/梯度下降.md",
+    "Pasted image 20260427231358.png",
+    "cuda/理论/pic/Pasted image 20260427230930.png",
+    "cuda/理论/pic/Pasted image 20260427230715.png",
+    "cuda/理论/pic/Pasted image 20260427230654.png",
+    "cuda/理论/pic/Pasted image 20260427230346.png",
+    "cuda/理论/pic/Pasted image 20260427224644.png",
+    "cuda/理论/pic/Pasted image 20260427223302.png",
+    "cuda/理论/pic",
+    "cuda/理论/pic/Pasted image 20260427222600.png",
+    "cuda/理论/ch01-并行计算和计算机结构.md",
+    "cuda/理论/ch02-异构数据并行计算.md",
+    "cuda/抽查表.md",
+    "cuda/理论/ch00-引言.md",
+    "cuda/操作",
+    "cuda/理论",
+    "cuda/face2ai/并行计算和计算机架构.md",
+    "cuda/face2ai",
     "pytorch/note/简单的回归问题.md",
+    "pytorch/note/梯度下降.md",
     "pytorch/note/训练循环.md",
     "pytorch/note/pic/Pasted image 20260426120514.png",
     "pytorch/note/pic/Pasted image 20260426120203.png",
     "pytorch/note/pic/Pasted image 20260426120147.png",
-    "pytorch/note/pic/Pasted image 20260426110952.png",
-    "pytorch/note/pic/Pasted image 20260426110522.png",
-    "pytorch/note/pic/Pasted image 20260426110516.png",
-    "pytorch/note/pic/Pasted image 20260426110458.png",
-    "pytorch/note/pic/Pasted image 20260426095927.png",
-    "pytorch/note/pic/Pasted image 20260425202342.png",
     "pytorch/note/一些会简单提到但不深入的主题和阅读提示.md",
     "pytorch/note/环境的简单配置.md",
-    "pytorch/note/pic/Pasted image 20260425172110.png",
     "README.md",
     "pytorch/note/pic",
-    "cuda/抽查表.md",
     "c++/类：嵌套类.md",
     "c++/类和头文件.md",
     "c++/类：this指针.md",
@@ -217,21 +226,12 @@
     "c++/类：委托构造函数.md",
     "c++/类：默认构造函数和默认参数.md",
     "c++/类：构造函数.md",
-    "c++/类：返回引用的成员函数.md",
-    "c++/类：右值隐式对象与按引用返回.md",
-    "c++/类：访问函数.md",
-    "c++/类和常量对象和常量成员函数.md",
-    "c++/类：术语.md",
     "c++/note/按从鸟瞰C++.canvas",
     "c++/note",
     "c++/未命名.base",
     "pytorch/未命名",
     "pytorch/note",
     "pytorch",
-    "c++/tmp",
-    "未命名.canvas",
-    "c++",
-    "cuda",
-    "未命名.base"
+    "未命名.canvas"
   ]
 }
