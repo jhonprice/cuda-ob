@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cuda/理论/ch02-异构数据并行计算.md",
+                "file": "cuda/理论/ch03-多维网格和数据.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ch02-异构数据并行计算"
+              "title": "ch03-多维网格和数据"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "097640b825744d17",
@@ -185,6 +186,9 @@
   },
   "active": "e46e353d0824785f",
   "lastOpenFiles": [
+    "Pasted image 20260428225440.png",
+    "cuda/理论/ch02-异构数据并行计算.md",
+    "cuda/理论/ch03-多维网格和数据.md",
     "Pasted image 20260427231358.png",
     "cuda/理论/pic/Pasted image 20260427230930.png",
     "cuda/理论/pic/Pasted image 20260427230715.png",
@@ -195,7 +199,6 @@
     "cuda/理论/pic",
     "cuda/理论/pic/Pasted image 20260427222600.png",
     "cuda/理论/ch01-并行计算和计算机结构.md",
-    "cuda/理论/ch02-异构数据并行计算.md",
     "cuda/抽查表.md",
     "cuda/理论/ch00-引言.md",
     "cuda/操作",
@@ -207,7 +210,6 @@
     "pytorch/note/训练循环.md",
     "pytorch/note/pic/Pasted image 20260426120514.png",
     "pytorch/note/pic/Pasted image 20260426120203.png",
-    "pytorch/note/pic/Pasted image 20260426120147.png",
     "pytorch/note/一些会简单提到但不深入的主题和阅读提示.md",
     "pytorch/note/环境的简单配置.md",
     "README.md",
@@ -225,7 +227,6 @@
     "c++/类：临时对象.md",
     "c++/类：委托构造函数.md",
     "c++/类：默认构造函数和默认参数.md",
-    "c++/类：构造函数.md",
     "c++/note/按从鸟瞰C++.canvas",
     "c++/note",
     "c++/未命名.base",
