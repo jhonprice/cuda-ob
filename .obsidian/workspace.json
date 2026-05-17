@@ -11,14 +11,10 @@
             "id": "9a9f0067e17c0536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pytorch/note/ch03-简单的分类问题.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ch03-简单的分类问题"
+              "title": "新标签页"
             }
           }
         ]
@@ -183,12 +179,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9a9f0067e17c0536",
+  "active": "720378cf6b6d9b41",
   "lastOpenFiles": [
-    "pytorch/note/ch00-梯度下降.md",
+    "other/视频类信息归档.md",
+    "README.md",
+    "other/未命名.base",
+    "other",
+    "pytorch/note/pic/Pasted image 20260507220432.png",
     "pytorch/note/ch03-简单的分类问题.md",
-    "Pasted image 20260508221738.png",
-    "Pasted image 20260507220432.png",
+    "pytorch/note/ch00-梯度下降.md",
+    "pytorch/note/pic/Pasted image 20260508221738.png",
     "pytorch/note/ch01-简单的回归问题.md",
     "pytorch/note/ch02-1-训练循环.md",
     "pytorch/note/ch02-2-抽象.md",
@@ -212,7 +212,6 @@
     "cuda/face2ai/并行计算和计算机架构.md",
     "cuda/face2ai",
     "pytorch/note/环境的简单配置.md",
-    "README.md",
     "pytorch/note/pic",
     "c++/类：嵌套类.md",
     "c++/类和头文件.md",
@@ -229,8 +228,6 @@
     "c++/note",
     "c++/未命名.base",
     "pytorch/未命名",
-    "pytorch/note",
-    "pytorch",
     "未命名.canvas"
   ]
 }
